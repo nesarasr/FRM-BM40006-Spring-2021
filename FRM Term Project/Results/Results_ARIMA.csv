@@ -1,0 +1,3 @@
+VaR Terminology,NIFTY
+VaR with Expanding Window ARIMA,0.024096205862608088
+VaR with Rolling Window ARIMA(window ~ 5 years) ,0.024698211252154583
