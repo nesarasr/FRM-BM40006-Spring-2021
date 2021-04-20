@@ -1,4 +1,4 @@
-*Comparison of various Value at Risk estimation methods*
+// Comparison of various Value at Risk estimation methods
 This folder contains
 
 1) Report (pdf)
