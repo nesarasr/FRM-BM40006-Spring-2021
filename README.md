@@ -1,1 +1,1 @@
-# Financial-Risk-Modeling--BM40006-Spring-2021
+# BM40006
